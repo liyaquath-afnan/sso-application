@@ -1,4 +1,4 @@
-package com.afnan.sso.entity;
+package com.afnan.sso.entities;
 
 import jakarta.persistence.*;
 
